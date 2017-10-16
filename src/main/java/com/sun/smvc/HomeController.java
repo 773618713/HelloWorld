@@ -13,8 +13,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 
 /**
  * Handles requests for the application home page.
- * 这个是
- */ 
+ */
 @Controller
 public class HomeController {
 	
